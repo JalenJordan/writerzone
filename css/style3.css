@@ -1,0 +1,28 @@
+#header{
+    text-align: center;
+}
+#tools{
+    padding-left: 0px;
+}
+#tools>li{
+    display: inline;
+    margin-right: 40px;
+}
+
+#profile-icon{
+    padding-left: 550px;
+}
+
+#texteditor{
+    width: max-content;
+}
+
+textarea{
+    border: solid 20px #A65400;
+}
+
+
+
+#btnsub{
+    width: 125%;
+}

@@ -1,0 +1,119 @@
+#logo{
+    margin-top: 20px;
+}
+
+
+
+#logins{
+    text-align: right;
+}
+#logins>li{
+    display: inline;
+    margin-left: 20px;
+}
+#signup,#login{
+    color: black;
+}
+
+#signup:hover{
+    color: blue;
+    text-decoration: none;
+    font-style: oblique;
+}
+#login:hover{
+    color: blue;
+    text-decoration: none;
+    font-style: oblique;
+}
+
+#trending-header{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#trendingbooks>li{
+    display: inline;
+    margin-left: 30px;
+}
+
+#rating{
+    margin-left: 30px;
+}
+#rating>li{
+    display: inline;
+}
+
+#item1:hover{
+    width: 350px;
+    height: 350px;
+    opacity: 0.4;
+    filter: alpha(opacity=40);
+}
+#item2:hover{
+    width: 350px;
+    height: 350px;
+    opacity: 0.4;
+    filter: alpha(opacity=40);
+}
+#item3:hover{
+    width: 350px;
+    height: 350px;
+    opacity: 0.4;
+    filter: alpha(opacity=40);
+}
+
+#item4:hover{
+    width: 350px;
+    height: 350px;
+}
+#item5:hover{
+    width: 350px;
+    height: 350px;
+}
+#item6:hover{
+    width: 350px;
+    height: 350px;
+}
+
+a:hover{
+    font-size: 20px;
+}
+
+#rating2{
+    margin-left: 369px;
+    margin-top: -28px;
+}
+#rating2>li{
+    display: inline;
+}
+
+#rating3{
+    margin-left: 700px;
+    margin-top: -28px;
+}
+#rating3>li{
+    display: inline;
+}
+
+#bookshelf{
+    background-color: #A65440;
+}
+
+#trending-wrapper{
+    background-color: white;
+}
+
+#trending-wrapper2{
+    background-color: white;
+}
+
+#trending{
+    border-top: #A65440 35px solid;
+    border-bottom: #A65440 35px solid;
+    border-right: #A65440 35px solid;
+    border-left: #A65440 35px solid;
+    border-bottom-style: ridge;
+    border-left-style: ridge;
+    border-right-style: groove;
+    padding-right: 30deg;
+}

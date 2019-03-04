@@ -1,0 +1,39 @@
+#writerside{
+    margin-top: 25px;
+}
+#readerside{
+    margin-top: 3px;
+}
+
+#subbtn{
+    width: 499px;
+}
+#dd{
+    border-left: 40px solid #A65440;
+    padding-left: 30px;
+}
+#header-quote{
+    text-align: center;
+}
+
+#reader-quote{
+    text-align: center;
+}
+
+#writer-quote{
+    text-align: center;
+}
+
+#writer-email{
+    width: 500px;
+    padding-right: 20px;
+}
+#reader-email{
+    width: 500px;
+    padding-right: 20px;   
+}
+
+#writer-password, #reader-password{
+    width: 500px;
+    padding-right: 20px;
+}
